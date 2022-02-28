@@ -21,4 +21,7 @@
 - MVVM
 - Mock 데이터로 리스트 구현
 - 파이어베이스 
+- Koin
+- Room
+- ViewBinding
 
